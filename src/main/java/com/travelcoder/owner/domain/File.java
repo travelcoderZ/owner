@@ -7,7 +7,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
- * 文件
+ * 文件 主要为图片
  * @author zhulin
  * @create 2019/1/3
  */
